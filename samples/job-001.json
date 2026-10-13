@@ -1,0 +1,13 @@
+{
+  "operator": "Acme HVAC",
+  "client": "Smith Residence",
+  "job_id": "JOB-2026-042",
+  "description": "Annual AC maintenance and coil cleaning",
+  "notes": "Filter replaced. Coils cleaned. System tested at 18°C delta-T. No leaks.",
+  "media_hashes": [
+    "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+    "2c26b46b68ffc68ff99b453c1d30413413422d706483bfa0f98a5e886266e7ae"
+  ],
+  "completed_at": "2026-10-13T15:00:00Z",
+  "total": 220.00
+}
